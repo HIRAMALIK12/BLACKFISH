@@ -105,19 +105,19 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    success: 'JO HUKUM JANU ✓',
+    admin: 'BETA YE FEATURE ABU KA HE!',
+    botAdmin: 'PHELE MJHE ADMIN BANAO!',
+    owner: 'YE MERA BHAI USE KR SKTA BAS!',
+    group: 'GROUP ME ADD KR PHR DEKHATA HU!',
+    private: 'PRIVATE GROUP K LYE HE!',
+    bot: 'YE FEATURE MERA HE',
+    wait: 'THAND RKH KR RHA HU',
+    linkm: 'LINK KIDHR HE?',
+    error: 'Error SAI KR !!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'The nsfw feature USE KREGA NAUGHTY, please contact the Mjhe to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
